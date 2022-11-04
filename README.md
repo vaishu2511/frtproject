@@ -69,11 +69,11 @@ Stand Blog is my Project,It is a creative Responsive blog template it contains v
 
 
 - Github Runtime Actions
-- ![keerthi](https://user-images.githubusercontent.com/85716910/198419187-b0398e18-3559-43b6-b656-ea37a3862f5c.PNG)
+- <img width="959" alt="Screenshot 2022-11-04 121937" src="https://user-images.githubusercontent.com/111456119/199909982-bcea7e22-151a-44ee-a8ac-618c465b9a3d.png">
 
 # Project WorkFlow
 
-![workflow](https://user-images.githubusercontent.com/85716910/198467281-4b2e349b-3426-4c79-966a-05557f91100a.PNG)
+
 
  
 # Screenshots
