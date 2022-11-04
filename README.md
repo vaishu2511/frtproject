@@ -85,11 +85,14 @@ EduWell is my project that is done as also called an online course, is any cours
 # About Us
 i am BTech pursuing Students,from 3rd year i considered this as problem as we facing the same situtaion regularly.
 
--Vaishnavi Makala(Lead)
--Uma Chandrika.I
--Hanuman Kasi.RD
--Amrutha.E
--
+- Vaishnavi Makala(Lead)
+
+- Uma Chandrika.I
+
+- Hanuman Kasi.RD
+
+- Amrutha.E
+
 
 # Privacy Policy 
 https://www.freeprivacypolicy.com/live/00e8184b-496f-4e08-9c62-223b9792ca0b
