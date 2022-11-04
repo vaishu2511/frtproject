@@ -2,14 +2,14 @@
 
 
 
-AZURE LINK : https://ashy-stone-08d3a1f10.2.azurestaticapps.net
+AZURE LINK : [https://ashy-stone-08d3a1f10.2.azurestaticapps.net](https://witty-flower-0fd07d400.2.azurestaticapps.net/)
 
 YOUTUBE LINK : https://youtu.be/-vc79aJZNcM
 
-PROJECT DEMO URL: https://keerthikorumilli.github.io/frtproject
+PROJECT DEMO URL: https://vaishu2511.github.io/frtproject
 
 
-PROJECT LINK(GITHUB REPOSITORY : https://github.com/keerthikorumilli/frtproject
+PROJECT LINK(GITHUB REPOSITORY) :[ https://github.com/keerthikorumilli/frtproject](https://github.com/vaishu2511/frtproject)
 
 
 
