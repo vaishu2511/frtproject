@@ -64,7 +64,8 @@ Stand Blog is my Project,It is a creative Responsive blog template it contains v
 # Deployment  Screenshots
 
 - Azure Environment
-- ![azure](https://user-images.githubusercontent.com/85716910/198466082-e678fd3f-20d2-44c6-b86c-c516d4ba3682.PNG)
+-<img width="947" alt="azure" src="https://user-images.githubusercontent.com/111456119/199909787-03588e1e-f44c-48f1-9911-7aaf04766775.png">
+
 
 
 - Github Runtime Actions
