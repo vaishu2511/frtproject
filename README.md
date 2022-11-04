@@ -70,6 +70,7 @@ Stand Blog is my Project,It is a creative Responsive blog template it contains v
 
 - Github Runtime Actions
 
+<img width="953" alt="workflow" src="https://user-images.githubusercontent.com/111456119/199910479-1c6355aa-0018-43f7-ab00-4afca8b4caaa.png">
 
 
 # Project WorkFlow 
