@@ -14,8 +14,8 @@ PROJECT LINK(GITHUB REPOSITORY : https://github.com/keerthikorumilli/frtproject
 
 
 
+Stand Blog is my Project,It is a creative Responsive blog template it contains various blog columns such as Lifestyle, Health,Fashion and Nature by using simple HTML and CSS ,we have been keeping several journals 
 
-EduWell is my project that is done as also called an online course, is any course taught online instead of in-person. Many ecourses are pre-recorded, but can also include many other components that create an engaging learning experience outside of a traditional classroom environment
 
 # Features
 -  Good UI
@@ -83,15 +83,15 @@ EduWell is my project that is done as also called an online course, is any cours
 
 
 # About Us
-i am BTech pursuing Students,from 3rd year i considered this as problem as we facing the same situtaion regularly.
+We are BTech pursuing Students,from 3rd year We considered this as problem as we facing the same situtaion regularly.
 
 - Vaishnavi Makala(Lead)
 
-- Uma Chandrika.I
+- Uma Chandrika I
 
-- Hanuman Kasi.RD
+- Hanuman Kasi RD
 
-- Amrutha.E
+- Amrutha E
 
 
 # Privacy Policy 
