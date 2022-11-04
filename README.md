@@ -79,6 +79,8 @@ EduWell is my project that is done as also called an online course, is any cours
 <img width="308" alt="Screenshot 2022-11-04 104332" src="https://user-images.githubusercontent.com/111456119/199895781-974a4939-a4c0-4026-bb55-2367a0e81c84.png">
 
 
+<img width="947" alt="PC CAP" src="https://user-images.githubusercontent.com/111456119/199897331-b70afdc7-94a2-44d7-b632-c489c2716fc4.png">
+
 
 # About Us
 i am BTech pursuing Students,from 3rd year i considered this as problem as we facing the same situtaion regularly.
