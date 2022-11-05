@@ -4,7 +4,7 @@
 
 AZURE LINK : [https://ashy-stone-08d3a1f10.2.azurestaticapps.net](https://witty-flower-0fd07d400.2.azurestaticapps.net/)
 
-YOUTUBE LINK : https://youtu.be/-vc79aJZNcM
+YOUTUBE LINK : https://youtu.be/GfawEersTZY
 
 PROJECT DEMO URL: https://vaishu2511.github.io/frtproject
 
