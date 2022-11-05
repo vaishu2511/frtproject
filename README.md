@@ -89,13 +89,7 @@ Stand Blog is my Project,It is a creative Responsive blog template it contains v
 # About Us
 We are BTech pursuing Students,from 3rd year We considered this as problem as we facing the same situtaion regularly.
 
-- Vaishnavi Makala(Lead)
-
-- Meghana T
-
-- Hanuman Kasi RD
-
-- Amrutha E
+- Vaishnavi Makala
 
 
 # Privacy Policy 
