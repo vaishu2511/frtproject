@@ -91,7 +91,7 @@ We are BTech pursuing Students,from 3rd year We considered this as problem as we
 
 - Vaishnavi Makala(Lead)
 
-- Uma Chandrika I
+- 
 
 - Hanuman Kasi RD
 
